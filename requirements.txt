@@ -1,0 +1,9 @@
+pyaudio
+streamlit-audiorec
+matplotlib
+sounddevice
+torch
+torchaudio
+scipy
+pydub
+librosa
